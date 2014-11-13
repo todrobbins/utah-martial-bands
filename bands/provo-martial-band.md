@@ -1,4 +1,4 @@
 #Provo Martial Band
 
 ##Members
-* [William Furlsbury Carter](../people/william-furlsbury-carter.md)
+* [Dominicus Carter](../people/dominicus-carter.md)

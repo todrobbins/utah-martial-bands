@@ -58,5 +58,5 @@ A repository of notes and structured data for the history of Utah martial and br
 | Name          | Band(s)          |
 | ------------- | ---------------- |
 | [Dominico Ballo](people/dominico-ballo.md) | [Dominico Ballo's Band](bands/dominico-ballos-band.md) |
-| [Edward Homner Duyett](people/edward-homner-duyett.md) | [Nauvoo Legion Band](bands/nauvoo-legion-band.md), [Rockville Martial Band](bands/rockville-martial-band.md) |
 | [Dominicus Carter](people/dominicus-carter.md) | [Provo Martial Band](bands/provo-martial-band.md) |
+| [Edward Homner Duyett](people/edward-homner-duyett.md) | [Nauvoo Legion Band](bands/nauvoo-legion-band.md), [Rockville Martial Band](bands/rockville-martial-band.md) |
