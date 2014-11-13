@@ -15,6 +15,7 @@ A repository of notes and structured data for the history of Utah martial and br
 * [Hyrum Martial Band](bands/hyrum-martial-band.md)
 * [Juvenile Band](bands/juvenile-band.md)
 * [Martial Band of Hyrum](bands/martial-band-of-hyrum.md)
+* [Mendon Martial Band](bands/mendon-martial-band.md)
 * [Morgan County Band](bands/morgan-county-band.md)
 * [Mormon Battalion martial bands](bands/mormon-battalion-martial-bands.md)
 * [Moroni Martial Band](bands/moroni-martial-band.md)
@@ -24,6 +25,7 @@ A repository of notes and structured data for the history of Utah martial and br
 * [Richmond Primary Band](bands/richmond-primary-band.md)
 * [Rockville Martial Band](bands/rockville-martial-band.md)
 * [Salt Lake City Martial Band](bands/salt-lake-city-martial-band.md)
+* [Silver Greys Martial Band](bands/silver-greys-martial-band.md)
 * [Springville Martial Band](bands/springville-martial-band.md)
 * [St. George Martial Band](bands/st-george-martial-band.md)
 * [South Bountiful Band](bands/south-bountiful-band.md)
@@ -66,3 +68,16 @@ A repository of notes and structured data for the history of Utah martial and br
 | [Dominico Ballo](people/dominico-ballo.md) | [Dominico Ballo's Band](bands/dominico-ballos-band.md) |
 | [Dominicus Carter](people/dominicus-carter.md) | [Provo Martial Band](bands/provo-martial-band.md) |
 | [Edward Homner Duyett](people/edward-homner-duyett.md) | [Nauvoo Legion Band](bands/nauvoo-legion-band.md), [Rockville Martial Band](bands/rockville-martial-band.md) |
+
+##Resources
+* [History of the Martial Band of St. George Utah](https://familysearch.org/patron/v2/TH-303-43421-722-80/dist.pdf?ctx=ArtCtxPublic)
+* [Index to Indian War Service Affidavits, 1909-1919](http://archives.utah.gov/research/indexes/2217.htm)
+* ["Mendon Martial Band", Mendonutah.net, accessed November 13, 2014](http://www.mendonutah.net/history/people/mendon_martial_band.htm)
+* ["Silver Greys Martial Band," Mendonutah.net, accessed November 13, 2014](http://www.mendonutah.net/history/people_photographs/silver_greys_martial_band.htm)
+* [United States Mormon Battalion Pension Applications, 1846-1923](https://familysearch.org/search/collection/1852758)
+* [United States, Mormon Battalion Pension Applications (FamilySearch Historical Records)](https://familysearch.org/learn/wiki/en/United_States,_Mormon_Battalion_Pension_Applications_(FamilySearch_Historical_Records))
+* [Utah, Indian War Service Affidavits, 1909-1917](https://familysearch.org/search/collection/1392781)
+* [Utah, Indian War Service Affidavits (FamilySearch Historical Records)](https://familysearch.org/learn/wiki/en/Utah,_Indian_War_Service_Affidavits_(FamilySearch_Historical_Records))
+* [Utah Military Records](https://familysearch.org/learn/wiki/en/Utah_Military_Records)
+* [Utah, Territorial Militia Records, 1849-1877](https://familysearch.org/collection/1462415/)
+* [Utah, Territorial Militia Records (FamilySearch Historical Records)](https://familysearch.org/learn/wiki/en/Utah,_Territorial_Militia_Records_(FamilySearch_Historical_Records))
