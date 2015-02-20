@@ -25,6 +25,7 @@ A repository of notes and structured data for the history of Utah martial and br
 * [Richmond Primary Band](bands/richmond-primary-band.md)
 * [Rockville Martial Band](bands/rockville-martial-band.md)
 * [Salt Lake City Martial Band](bands/salt-lake-city-martial-band.md)
+* [Salt Lake Tenth Ward Band](bands/salt-lake-tenth-ward-band.md)
 * [Silver Greys Martial Band](bands/silver-greys-martial-band.md)
 * [Springville Martial Band](bands/springville-martial-band.md)
 * [St. George Martial Band](bands/st-george-martial-band.md)

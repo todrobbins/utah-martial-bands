@@ -1,4 +1,5 @@
-#Provo Martial Band
+# Provo Martial Band
 
-##Members
+## Members
+* Charles Isaac Robbins
 * [Dominicus Carter](../people/dominicus-carter.md)
