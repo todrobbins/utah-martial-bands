@@ -2,4 +2,4 @@
 
 ## Members
 
-* [Dominico Ballo](people/dominico-ballo.md)
+* [Dominico Ballo](../people/dominico-ballo.md)
