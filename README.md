@@ -3,8 +3,8 @@ Utah Martial & Brass Bands
 
 A repository of notes and structured data for the history of Utah martial and brass bands.
 
-##Bands
-###Martial Bands
+## Bands
+### Martial Bands
 * [Black Hawk Veteran's Band](bands/black-hawk-veterans-band.md)
 * [Bountiful Band](bands/bountiful-band.md)
 * [Brigham Martial Band](bands/brigham-martial-band.md)
@@ -32,7 +32,7 @@ A repository of notes and structured data for the history of Utah martial and br
 * [South Bountiful Band](bands/south-bountiful-band.md)
 * [West Bountiful Martial Band](bands/west-bountiful-martial-band.md)
 
-###Brass Bands
+### Brass Bands
 * [Adams Cornet Band](bands/adams-cornet-band.md)
 * [American Fork Brass Band](bands/american-fork-brass-band.md)
 * [Beaver Brass Band](bands/beaver-brass-band.md)
@@ -62,7 +62,7 @@ A repository of notes and structured data for the history of Utah martial and br
 * [Washington County Band](bands/payson-brass-band.md)
 * [William Pitt's Brass Band](bands/william-pitts-brass-band.md)
 
-##People
+## People
 
 | Name          | Band(s)          |
 | ------------- | ---------------- |
@@ -70,7 +70,7 @@ A repository of notes and structured data for the history of Utah martial and br
 | [Dominicus Carter](people/dominicus-carter.md) | [Provo Martial Band](bands/provo-martial-band.md) |
 | [Edward Homner Duyett](people/edward-homner-duyett.md) | [Nauvoo Legion Band](bands/nauvoo-legion-band.md), [Rockville Martial Band](bands/rockville-martial-band.md) |
 
-##Resources
+## Resources
 * [History of the Martial Band of St. George Utah](https://familysearch.org/patron/v2/TH-303-43421-722-80/dist.pdf?ctx=ArtCtxPublic)
 * [Index to Indian War Service Affidavits, 1909-1919](http://archives.utah.gov/research/indexes/2217.htm)
 * ["Mendon Martial Band", Mendonutah.net, accessed November 13, 2014](http://www.mendonutah.net/history/people/mendon_martial_band.htm)
